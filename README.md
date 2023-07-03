@@ -1,4 +1,4 @@
-![Header](HEY! I am.png)
+<img align="right" alt="coding" width="400" src="HEY!am.png">
 <h3 align="justify">Determined Java Backend Developer with passion for learning with an endless supply of optism and curosity. Proficent in some Frontend and backend technologies
 like Java, Html, CSS, Java-Script, Spring, Hibernate, Sql/Mysql. 
 Able to write clean and reusable code. Looking forward to challenging and progressive environent</h3>
