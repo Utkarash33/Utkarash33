@@ -16,7 +16,7 @@ Able to write clean and reusable code. Looking forward to a challenging and prog
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1S_5NJGrawtuMxhoS6nDo1qJJmPe9c2fg/view?usp=sharing)
 
-- My address **Una/Himachal Pradesh **
+- My address **Una/Himachal Pradesh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
