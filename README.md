@@ -43,7 +43,7 @@ Able to write clean and reusable code. Looking forward to a challenging and prog
 </td>
 <td width="25%" align="center">
 <span><b>SpringBoot</b></span><br><br>
-<img height="64px" src="[https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg](https://img.icons8.com/?size=512&id=90519&format=png)">
+<img height="64px" src="https://img.icons8.com/?size=512&id=90519&format=png">
 </td>
 </tr>
 
