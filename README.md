@@ -16,6 +16,8 @@ Able to write clean and reusable code. Looking forward to a challenging and prog
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1S_5NJGrawtuMxhoS6nDo1qJJmPe9c2fg/view?usp=sharing)
 
+- My address **Una/Himachal Pradesh **
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/utkarash-thakur-70439a262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Utkarash Thakur" height="30" width="40" /></a>
