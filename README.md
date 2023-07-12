@@ -1,16 +1,16 @@
 
 ![Header](hey.png)
-<h3 align="justify">Determined Java Backend Developer with passion for learning with an endless supply of optism and curosity. Proficent in some Frontend and backend technologies
-like Java, Html, CSS, Java-Script, Spring, Hibernate, Sql/Mysql. 
-Able to write clean and reusable code. Looking forward to challenging and progressive environent</h3>
+<h3 align="justify">Determined Java Backend Developer with a passion for learning with an endless supply of optimism and curiosity. Proficient in some Frontend and backend technologies
+like Java, Html, CSS, Java-Script, Spring, Hibernate, and Sql/Mysql. 
+Able to write clean and reusable code. Looking forward to a challenging and progressive environment </h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*k-Snk2qOam5GZ-_S.gif">
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 My personal website [Click here..](https://utkarash33.github.io/)
+- 👨‍💻 My personal website **https://utkarash33.github.io/**
 
-- 💬 Ask me about **Java-Script, HTML, CSS, Java, SQl**
+- 💬 Ask me about **Java-Script, HTML, CSS, Java, SQL**
 
 - 📫 How to reach me **utkarsh33193301@gmail.com**
 
@@ -43,7 +43,7 @@ Able to write clean and reusable code. Looking forward to challenging and progre
 </td>
 <td width="25%" align="center">
 <span><b>SpringBoot</b></span><br><br>
-<img height="64px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg">
+<img height="64px" src="[https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg](https://img.icons8.com/?size=512&id=90519&format=png)">
 </td>
 </tr>
 
