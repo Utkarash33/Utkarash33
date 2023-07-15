@@ -7,7 +7,7 @@ Able to write clean and reusable code. Looking forward to a challenging and prog
 
 - 🌱 I’m currently learning **Java Backend Development**
 
-- 👨‍💻 My personal website **https://utkarash33.github.io**
+- 👨‍💻 My Portfolio **https://utkarash33.github.io**
 
 - 💬 Ask me about **Java-Script, HTML, CSS, Java, SQL**
 
