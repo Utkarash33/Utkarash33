@@ -1,7 +1,5 @@
 ![Header](hey.png)
-<h3 align="justify">Determined Java Backend Developer with a passion for learning with an endless supply of optimism and curiosity. Proficient in some Frontend and backend technologies
-like Java, Html, CSS, Java-Script, Spring, Hibernate, and Sql/Mysql. 
-Able to write clean and reusable code. Looking forward to a challenging and progressive environment </h3>
+<h3 align="justify">Passionate and resourceful full-stack web developer showcasing expertise in SQL, Java programming, and HTML/CSS. Proficient in database management, code optimization, and crafting visually engaging web interfaces. Committed to delivering high-quality solutions, adept at quickly mastering new technologies, including Generative AI, to contribute effectively to challenging projects.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*k-Snk2qOam5GZ-_S.gif">
 
@@ -45,6 +43,10 @@ Able to write clean and reusable code. Looking forward to a challenging and prog
 <span><b>SpringBoot</b></span><br><br>
 <img height="64px" src="https://img.icons8.com/?size=512&id=90519&format=png">
 </td>
+<td width="25%" align="center">
+<span><b>GenerativeAI</b></span><br><br>
+<img height="64px" src="openai-icon.svg">
+</td>
 </tr>
 
 <tr valign="top">
@@ -66,6 +68,10 @@ Able to write clean and reusable code. Looking forward to a challenging and prog
 <td width="25%" align="center">
 <span><b>Git</b></span><br><br>
 <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+</td>
+<td width="25%" align="center">
+<span><b>Angular</b></span><br><br>
+<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png">
 </td>
 </tr>
 </tbody>
