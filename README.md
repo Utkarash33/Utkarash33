@@ -3,11 +3,11 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*k-Snk2qOam5GZ-_S.gif">
 
-- 🌱 I’m currently learning **Java Backend Development**
+- 🌱 I’m currently working as **Java Backend Development**
 
 - 👨‍💻 My personal website https://utkarash33.github.io
 
-- 💬 Ask me about **Java-Script, HTML, CSS, Java, SQL**
+- 💬 Ask me about **Java, SQL, Spring-boot, Redis, Kafka**
 
 - 📫 How to reach me **utkarsh33193301@gmail.com**
 
