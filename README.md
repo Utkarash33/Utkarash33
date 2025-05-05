@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **utkarsh33193301@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wsIkYOtQDPosKaJSgCdIqgqOMdNi8xPl/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12qx1uOjwL_a5cgO1_s2IkgE4vUF_E-A_/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
